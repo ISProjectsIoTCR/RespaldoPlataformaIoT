@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"fdf818494e464853aad2ee29db38d95a","collectionName":"alarmrules","type":"collection"}
